@@ -25,9 +25,10 @@ a img {
 </head>
 <body>
 <div id="container">
-<a href="https://supercinco.com.mx/"><img src="iisstart.png" alt="SCA" width="960" height="540" /></a>
+<a href="https://jumego.github.io/ListasdeBloqueDNS/"><img src="iisstart.png" alt="SCA" width="960" height="540" /></a>
 </div>
 </body>
 </html>
+
 
 
