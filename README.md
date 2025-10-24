@@ -19,7 +19,6 @@ a img {
 }
 
 -->
-</style>
 </head>
 <body>
 <div id="container">
@@ -27,6 +26,7 @@ a img {
 </div>
 </body>
 </html>
+
 
 
 
