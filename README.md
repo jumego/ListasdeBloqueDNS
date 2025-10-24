@@ -1,7 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>jumego.site</title>
+<title>jumego</title>
 <style type="text/css">
 <!--
 body {
@@ -25,8 +25,9 @@ a img {
 </head>
 <body>
 <div id="container">
-<a href="https://jumego.site/"><img src="iisstart.png" alt="SCA" width="960" height="540" /></a>
+<a href="https://supercinco.com.mx/"><img src="iisstart.png" alt="SCA" width="960" height="540" /></a>
 </div>
 </body>
 </html>
+
 
